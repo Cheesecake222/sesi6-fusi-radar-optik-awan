@@ -1,0 +1,16 @@
+model,persen_sampel_berawan,akurasi,f1_macro
+Radar saja,0,0.425,0.4074
+Optik saja,0,0.9405,0.9439
+Radar + optik,0,0.947,0.9503
+Radar saja,25,0.425,0.4074
+Optik saja,25,0.777,0.7782
+Radar + optik,25,0.8375,0.8403
+Radar saja,50,0.425,0.4074
+Optik saja,50,0.6235,0.6227
+Radar + optik,50,0.7235,0.7256
+Radar saja,75,0.425,0.4074
+Optik saja,75,0.4695,0.4508
+Radar + optik,75,0.6085,0.6034
+Radar saja,100,0.425,0.4074
+Optik saja,100,0.3255,0.282
+Radar + optik,100,0.4945,0.484

@@ -1,0 +1,5 @@
+kondisi,sumber_diacak,akurasi_dasar,penurunan_akurasi
+Tanpa awan,Radar,0.947,0.0194
+Tanpa awan,Optik,0.947,0.6549
+Awan penuh,Radar,0.4945,0.1777
+Awan penuh,Optik,0.4945,0.042
